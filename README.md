@@ -1,4 +1,4 @@
-# RFA-Segmentation
+# RFM-Segmentation
 Python Notebook demonstrating RFM segmentation on an example dataset
 - unfortunately, RFM has fallen into obsolescence due to various reasons:
 1. not easily adaptable to change in customer base
